@@ -16,7 +16,7 @@ def isPrime(n):
 
     return True
 
-#primes = [i for i in range(range_a,range_b) if isPrime(i)]
+#primes = [i for i in range(range_a,range_b) if isPrime(i)] test
 
 #p = random.choice(primes)
 p = random.randint(range_a,range_b)
